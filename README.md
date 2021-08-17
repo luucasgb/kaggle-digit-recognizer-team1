@@ -4,8 +4,8 @@ Repositório criado para os membros do Time 1 utilizarem e enviarem suas submiss
 
 Membros do time:
 
-- Lucas Guimarães Batista\
-- Renato Aranha\
-- Fernanda Severo\
-- Sidney Alves de Outeiro\
-- Luciano Martins\
+- Lucas Guimarães Batista
+- Renato Aranha
+- Fernanda Severo
+- Sidney Alves de Outeiro
+- Luciano Martins
